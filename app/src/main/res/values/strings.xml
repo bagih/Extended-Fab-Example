@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Extended Fab Example</string>
+    <string name="like_button">Like!</string>
+    <string name="fav_button">Fav!</string>
+    <string name="like_button_desc">Like this destination</string>
+    <string name="fav_button_desc">Fav this destination</string>
+    <string name="selong_belanak_url">https://4.bp.blogspot.com/-d9148mXXu7M/U1PXb7UKLTI/AAAAAAAABBk/escA-n577S0/s1600/Keindahan+Pantai+Selong+Belanak.jpg</string>
+    <string name="selong_belanak_title">Pantai Selong Belanak</string>
+    <string name="selong_belanak_desc">Pantai Selong Belanak adalah salah satu pantai terindah di pulau Lombok, Indonesia. Pantai ini memiliki pasir putih yang lembut, air laut yang jernih dan ombak yang cocok untuk berselancar. Keindahan pantai ini membuatnya menjadi tujuan wisata yang populer bagi para wisatawan lokal dan internasional.\nPantai Selong Belanak juga memiliki suasana yang tenang dan nyaman, sehingga pantai ini sangat cocok bagi mereka yang ingin bersantai dan menikmati suasana alam yang indah. Selain itu, di sekitar pantai terdapat beberapa warung makanan yang menyajikan makanan lezat khas daerah setempat, sehingga para pengunjung dapat menikmati kuliner yang enak sambil menikmati pemandangan yang indah di pantai Selong Belanak. Pantai ini sangat cocok untuk dijadikan tempat liburan bagi keluarga dan teman-teman yang ingin menghabiskan waktu bersama di tempat yang indah dan menyenangkan.</string>
+</resources>
